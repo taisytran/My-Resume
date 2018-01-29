@@ -40,20 +40,23 @@ Technical Skill
 + MySQL
 + PostgreSQL
 + SQLITE
-+ MongoDB
 
-Employment History (Experience)
+Employment History (Working Experience)
 ----------
 
 9/2016 - 12/2017: **Global Cybersoft**
 
-|No| Project Name  	|   Responsibility (Position)	| 
-|---|---|---|
-|1|  Process Mining	|   RnD	| 
-|2|  CPS (Chiller Plant System) Stage 1 	| RnD, Frontend Developer  	|  
-|3|  Map OEM 	|  RnD, Full Stack Developer 	| 
-|4|  CPS Stage 2 	|  RnD, Backend Developer 	|
-|5|  Nirdizati 	|  RnD 	|
+|No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) | 
+|---|---|---|---|---|
+|1|  Process Mining	|   RnD	| ProM tool, BPI domain... | 1 |
+|2|  CPS (Chiller Plant System) Stage 1 	| Frontend Developer  	| AngularJS framework| 5 |
+|3|  Map OEM 	|  Full Stack Developer 	| Javascript, AngularJS framework, NodeJS. | 1 |
+|4|  CPS Stage 2 	|  Backend Developer 	| Python, Django framework, REST framework, Celery.. | 4 |
+|5|  Nirdizati 	|  RnD 	| BPI domain (Process Mining, Machine Learning...), AngularJS, Python, Django framework, Kafka, Docker...  | 1 |
+
+Position Applied For
+---
+- Full Stack Developer (Frontend/Backend or Both)
 
 English Skill
 ----------
@@ -71,10 +74,10 @@ Additional Information
 ----------
 
 **Personalities**
-- Cheerful, honest, careful, hard-working, responsible, self-confident, patient, eager for learning
+- Cheerful, honest, careful, hard-working, customer focused, responsible, self-confident, patient, eager for learning
 
 **Interests**:
-- Read book about science and it
+- Read books about science and IT
 - Play soccer, swimming
 - Listen English songs, read manga
 - Document all techniques that have learned
