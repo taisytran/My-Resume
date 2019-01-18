@@ -62,6 +62,14 @@ Technical Skill
 Employment History (Working Experience)
 ----------
 
+3/2018 - 3/2019: **Stay Japan**
+
+|No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) | 
+|---|---|---|---|---|
+|1|  Tomareru	|   Backend	| Ruby, Ruby on Rails, Mysql, Solr, Git,... |  20 (FE: 6, BE: 12, QCQA: 2) |
+
+<br>
+
 9/2016 - 12/2017: **Global Cybersoft**
 
 |No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) | 
@@ -71,12 +79,6 @@ Employment History (Working Experience)
 |3|  Map OEM 	|  Full Stack Developer 	| Javascript, AngularJS framework, NodeJS. | 1 |
 |4|  CPS Stage 2 	|  Backend Developer 	| Python, Django framework, REST framework, Celery.. | 4 (FE: 2, BE: 2) |
 |5|  Nirdizati 	|  RnD 	| BPI domain (Process Mining, Machine Learning...), AngularJS, Python, Django framework, Kafka, Docker...  | 1 |
-</pr>
-----------
-3/2018 - 3/2019: **Stay Japan**
-|No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) | 
-|---|---|---|---|---|
-|1|  Tomareru	|   Backend	| Ruby, Ruby on Rails, Mysql, Solr, Git,... |  20 (FE: 6, BE: 12, QCQA: 2) |
 
 Position Applied For
 ---
