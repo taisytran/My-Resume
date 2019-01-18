@@ -10,7 +10,7 @@ Address: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;38B34 Cay Keo St, Tam Phu Wd,
 
 Phone:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01682014321
 
-Year Experience::&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1+ years
+Year Experience::&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2+ years
 -------------------     ----------------------------
 
 Education
@@ -25,21 +25,39 @@ Technical Skill
 ----------
 
 **Programming Language:**
-+ Python
-+ Java
-+ Javascript
++ Ruby (Level: `Intermediate - Expert`)
++ Python (Level: `Intermediate - Expert`)
++ Javascript (Level: `Intermediate - Expert`)
++ Java (Level: `Beginner - Intermediate`)
 
 **Frameworks and Technologies that is used**
-+ AngularJS v1
-+ AngularJS v2,v4 and v5
-+ NodeJS with Express
-+ Django python, celery...
++ Ruby on Rails, Sidekiq, Solr,.. (Level: `Intermediate`)
++ Django python, celery... (Level: `Intermediate`)
++ AngularJS v1 (Level: `Intermediate`)
++ AngularJS v2,v4 and v5 (Level: `Beginner`)
++ NodeJS, Express.. (Level: `Beginner - Intermediate`)
 
 **Databases (system backend) that are used**
-+ SQL server
-+ MySQL
-+ PostgreSQL
-+ SQLITE
++ MySQL (Level: `Beginner - Intermediate`)
++ PostgreSQL (Level: `Beginner - Intermediate`)
++ SQL server (Level: `Beginner - Intermediate`)
++ SQLITE (Level: `Beginner`)
+
+**HTML and CSS and some Frameworks that are usedd**
+- HTML (Level: `Intermediate`)
+- CSS (Level: `Beginner`)
+- Bootstrap (Level: `Beginner`)
+- Material (Level: `Beginner`)
+
+**Version Control System that are used**
+- Git (Level: `Intermediate`)
+- SVN  (Level: `Beginner - Intermediate`)
+
+**Web-based management tool that are used**
+- Jira
+- Gitlab
+- Slack
+- Redmine
 
 Employment History (Working Experience)
 ----------
@@ -49,14 +67,20 @@ Employment History (Working Experience)
 |No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) | 
 |---|---|---|---|---|
 |1|  Process Mining	|   RnD	| ProM tool, BPI domain... | 1 |
-|2|  CPS (Chiller Plant System) Stage 1 	| Frontend Developer  	| AngularJS framework| 5 |
+|2|  CPS (Chiller Plant System) Stage 1 	| Frontend Developer  	| AngularJS framework| 5 (FE: 3, BE: 2) |
 |3|  Map OEM 	|  Full Stack Developer 	| Javascript, AngularJS framework, NodeJS. | 1 |
-|4|  CPS Stage 2 	|  Backend Developer 	| Python, Django framework, REST framework, Celery.. | 4 |
+|4|  CPS Stage 2 	|  Backend Developer 	| Python, Django framework, REST framework, Celery.. | 4 (FE: 2, BE: 2) |
 |5|  Nirdizati 	|  RnD 	| BPI domain (Process Mining, Machine Learning...), AngularJS, Python, Django framework, Kafka, Docker...  | 1 |
+</pr>
+----------
+3/2018 - 3/2019: **Stay Japan**
+|No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) | 
+|---|---|---|---|---|
+|1|  Tomareru	|   Backend	| Ruby, Ruby on Rails, Mysql, Solr, Git,... |  20 (FE: 6, BE: 12, QCQA: 2) |
 
 Position Applied For
 ---
-- Full Stack Developer (Frontend/Backend or Both)
+- Ruby Developer or Full Stack Developer (Frontend/Backend or Both)
 
 English Skill
 ----------
