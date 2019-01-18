@@ -8,7 +8,7 @@ Email: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t
 
 Address: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;38B34 Cay Keo St, Tam Phu Wd, Thu Duc Dist, HCM City
 
-Phone:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01682014321
+Phone:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0382014321
 
 Year Experience::&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2+ years
 -------------------     ----------------------------
@@ -25,22 +25,22 @@ Technical Skill
 ----------
 
 **Programming Language:**
-+ Ruby (Level: `Intermediate - Expert`)
-+ Python (Level: `Intermediate - Expert`)
-+ Javascript (Level: `Intermediate - Expert`)
-+ Java (Level: `Beginner - Intermediate`)
++ Ruby (Level: `Intermediate` - `Expert`)
++ Python (Level: `Intermediate`)
++ Javascript (Level: `Intermediate`)
++ Java (Level: `Beginner` - `Intermediate`)
 
 **Frameworks and Technologies that is used**
 + Ruby on Rails, Sidekiq, Solr,.. (Level: `Intermediate`)
 + Django python, celery... (Level: `Intermediate`)
 + AngularJS v1 (Level: `Intermediate`)
 + AngularJS v2,v4 and v5 (Level: `Beginner`)
-+ NodeJS, Express.. (Level: `Beginner - Intermediate`)
++ NodeJS, Express.. (Level: `Beginner` - `Intermediate`)
 
 **Databases (system backend) that are used**
-+ MySQL (Level: `Beginner - Intermediate`)
-+ PostgreSQL (Level: `Beginner - Intermediate`)
-+ SQL server (Level: `Beginner - Intermediate`)
++ MySQL (Level: `Beginner` - `Intermediate`)
++ PostgreSQL (Level: `Beginner` - `Intermediate`)
++ SQL server (Level: `Beginner` - `Intermediate`)
 + SQLITE (Level: `Beginner`)
 
 **HTML and CSS and some Frameworks that are usedd**
@@ -51,7 +51,7 @@ Technical Skill
 
 **Version Control System that are used**
 - Git (Level: `Intermediate`)
-- SVN  (Level: `Beginner - Intermediate`)
+- SVN  (Level: `Beginner` - `Intermediate`)
 
 **Web-based management tool that are used**
 - Jira
@@ -112,4 +112,4 @@ Additional Information
 - Sometime take part in a lot of activities of Faculty and School, e.g: Summer Green Campaign, Spring Volunteer..
 
 ----
-> <transytai12a1@gmail.com> • 01682014321
+> <transytai12a1@gmail.com> • 0382014321
