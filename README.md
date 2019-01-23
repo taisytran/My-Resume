@@ -62,7 +62,7 @@ Technical Skill
 Employment History (Working Experience)
 ----------
 
-3/2018 - 3/2019: **Stay Japan**
+3/2018 - Present: **Stay Japan**
 
 |No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) | 
 |---|---|---|---|---|
