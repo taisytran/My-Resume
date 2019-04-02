@@ -62,7 +62,15 @@ Technical Skill
 Employment History (Working Experience)
 ----------
 
-3/2018 - Present: **Stay Japan**
+1/2019 - present: **Sezax**
+
+|No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) | 
+|---|---|---|---|---|
+|1|  Image Store 2	|   Backend	| Ruby, Ruby on Rails, Mysql, Solr, Git,... |  6 (BE: 4 FE: 2) |
+
+<br>
+
+1/2018 - 1/2019: **Stay Japan**
 
 |No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) | 
 |---|---|---|---|---|
@@ -79,6 +87,14 @@ Employment History (Working Experience)
 |3|  Map OEM 	|  Full Stack Developer 	| Javascript, AngularJS framework, NodeJS. | 1 |
 |4|  CPS Stage 2 	|  Backend Developer 	| Python, Django framework, REST framework, Celery.. | 4 (FE: 2, BE: 2) |
 |5|  Nirdizati 	|  RnD 	| BPI domain (Process Mining, Machine Learning...), AngularJS, Python, Django framework, Kafka, Docker...  | 1 |
+
+Certifications
+---
+- **February 2016**: FPT Global software talent traning 
+- **September 2016**: Bachelor's degree of software engineering
+- **October 2016**: The Data Scientist's Toolbox on Coursera's course
+- **November 2016**: R programming on Coursera's course
+- **January 2017**: Getting and Cleaning Data on Coursera's course
 
 Position Applied For
 ---
