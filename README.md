@@ -31,10 +31,10 @@ Technical Skill
 + Java (Level: `Beginner` - `Intermediate`)
 
 **Frameworks and Technologies that is used**
-+ Ruby on Rails, Sidekiq, Solr,.. (Level: `Intermediate`)
++ Ruby on Rails, Sidekiq, Elasticsearch,.. (Level: `Intermediate`)
 + Django python, celery... (Level: `Intermediate`)
 + AngularJS v1 (Level: `Intermediate`)
-+ AngularJS v2,v4 and v5 (Level: `Beginner`)
++ AngularJS v2+ (Level: `Beginner`)
 + NodeJS, Express.. (Level: `Beginner` - `Intermediate`)
 
 **Databases (system backend) that are used**
@@ -59,6 +59,9 @@ Technical Skill
 - Slack
 - Redmine
 
+**Software development methodology**
+- Scrum and Agile
+
 Employment History (Working Experience)
 ----------
 
@@ -66,7 +69,7 @@ Employment History (Working Experience)
 
 |No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) | 
 |---|---|---|---|---|
-|1|  Image Store 2	|   Backend	| Ruby, Ruby on Rails, Mysql, Solr, Git,... |  6 (BE: 4 FE: 2) |
+|1|  Image Store 2	|   Backend	| Ruby on Rails, Mysql, Elasticsearch, Git, S3... |  6 (BE: 4 FE: 2) |
 
 <br>
 
@@ -74,7 +77,7 @@ Employment History (Working Experience)
 
 |No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) | 
 |---|---|---|---|---|
-|1|  Tomareru	|   Backend	| Ruby, Ruby on Rails, Mysql, Solr, Git,... |  20 (FE: 6, BE: 12, QCQA: 2) |
+|1|  Tomareru	|   Backend	| Ruby on Rails, Mysql, Solr, Git, S3... |  20 (FE: 6, BE: 12, QCQA: 2) |
 
 <br>
 
