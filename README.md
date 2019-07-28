@@ -69,7 +69,7 @@ Employment History (Working Experience)
 
 |No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) | 
 |---|---|---|---|---|
-|1|  Image Store 2	|   Backend	| Ruby on Rails, Mysql, Elasticsearch, Git, S3... |  6 (BE: 4 FE: 2) |
+|1|  Image Store 2	|   Backend	| Ruby on Rails, Mysql, Elasticsearch, Git, S3, minio |  6 (BE: 4 FE: 2) |
 
 <br>
 
