@@ -36,6 +36,7 @@ Technical Skill
 + AngularJS v1 (Level: `Intermediate`)
 + AngularJS v2+ (Level: `Beginner`)
 + NodeJS, Express.. (Level: `Beginner` - `Intermediate`)
++ AWS, EC2, Minio
 
 **Databases (system backend) that are used**
 + MySQL (Level: `Beginner` - `Intermediate`)
@@ -69,7 +70,7 @@ Employment History (Working Experience)
 
 |No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) | 
 |---|---|---|---|---|
-|1|  Image Store 2	|   Backend	| Ruby on Rails, Mysql, Elasticsearch, Git, S3, minio |  6 (BE: 4 FE: 2) |
+|1|  Image Store 2	|   Backend	| Ruby on Rails, Mysql, Elasticsearch, Git, S3, minio, AWS... |  6 (BE: 4 FE: 2) |
 
 <br>
 
