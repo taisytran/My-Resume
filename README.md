@@ -10,7 +10,7 @@ Address: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;38B34 Cay Keo St, Tam Phu Wd,
 
 Phone:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0382014321
 
-Year Experience::&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2+ years
+Year Experience::&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3+ years
 -------------------     ----------------------------
 
 Education
@@ -31,7 +31,7 @@ Technical Skill
 + Java (Level: `Beginner` - `Intermediate`)
 
 **Frameworks and Technologies that is used**
-+ Ruby on Rails, Sidekiq, Elasticsearch,.. (Level: `Intermediate`)
++ Ruby on Rails, Sidekiq/Resque, Elasticsearch,.. (Level: `Intermediate`)
 + Django python, celery... (Level: `Intermediate`)
 + AngularJS v1 (Level: `Intermediate`)
 + AngularJS v2+ (Level: `Beginner`)
@@ -40,9 +40,8 @@ Technical Skill
 
 **Databases (system backend) that are used**
 + MySQL (Level: `Beginner` - `Intermediate`)
-+ PostgreSQL (Level: `Beginner` - `Intermediate`)
++ PostgreSQL (Level: `Intermediate`)
 + SQL server (Level: `Beginner` - `Intermediate`)
-+ SQLITE (Level: `Beginner`)
 
 **HTML and CSS and some Frameworks that are usedd**
 - HTML (Level: `Intermediate`)
@@ -63,28 +62,33 @@ Technical Skill
 **Software development methodology**
 - Scrum and Agile
 
+**IDE is used for developing**
+- Vim (Level: `Expert`)
+- Vscode (Level: `Intermediate`)
+- RubyMine (Level: `Intermediate`)
+
 Employment History (Working Experience)
 ----------
+9/2019 - present: **Remitano**
 
-1/2019 - present: **Sezax**
-
-|No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) | 
+|No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) |
 |---|---|---|---|---|
-|1|  Image Store 2	|   Backend	| Ruby on Rails, Mysql, Elasticsearch, Git, S3, minio, AWS... |  6 (BE: 4 FE: 2) |
+|1|  Remitano	| FullStack	| RoR, Postgres, React, AngularJS, Reverse Engineering... | 12+ |
 
 <br>
 
-1/2018 - 1/2019: **Stay Japan**
+1/2018 - 9/2019: **Hyakusenrenma/Sezax**
 
-|No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) | 
+|No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) |
 |---|---|---|---|---|
-|1|  Tomareru	|   Backend	| Ruby on Rails, Mysql, Solr, Git, S3... |  20 (FE: 6, BE: 12, QCQA: 2) |
+|1|  Tomareru	|   Backend	| RoR, Mysql, Solr, Git, S3... |  20 (FE: 6, BE: 12, QCQA: 2) |
+|2|  Image Store 2	|   Backend	| RoR, Mysql, Elasticsearch, Git, S3, minio, AWS... |  6 (BE: 4 FE: 2) |
 
 <br>
 
 9/2016 - 12/2017: **Global Cybersoft**
 
-|No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) | 
+|No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) |
 |---|---|---|---|---|
 |1|  Process Mining	|   RnD	| ProM tool, BPI domain... | 1 |
 |2|  CPS (Chiller Plant System) Stage 1 	| Frontend Developer  	| AngularJS framework| 5 (FE: 3, BE: 2) |
@@ -94,7 +98,7 @@ Employment History (Working Experience)
 
 Certifications
 ---
-- **February 2016**: FPT Global software talent traning 
+- **February 2016**: FPT Global software talent traning
 - **September 2016**: Bachelor's degree of software engineering
 - **October 2016**: The Data Scientist's Toolbox on Coursera's course
 - **November 2016**: R programming on Coursera's course
@@ -111,9 +115,9 @@ English Skill
 
 Personal Skill
 ----------
-+ Creative. 
++ Creative.
 + Teamwork.
-+ Organization. 
++ Organization.
 + Communication.
 
 Additional Information
