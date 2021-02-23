@@ -10,7 +10,7 @@ Address: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;38B34 Cay Keo St, Tam Phu Wd,
 
 Phone:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0382014321
 
-Year Experience::&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3+ years
+Year Experience::&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4+ years
 -------------------     ----------------------------
 
 Education
@@ -25,47 +25,41 @@ Technical Skill
 ----------
 
 **Programming Language:**
-+ Ruby (Level: `Intermediate` - `Expert`)
-+ Python (Level: `Intermediate`)
-+ Javascript (Level: `Intermediate`)
-+ Java (Level: `Beginner` - `Intermediate`)
++ :star:Ruby
++ Python
++ Javascript
++ Go
 
-**Frameworks and Technologies that is used**
-+ Ruby on Rails, Sidekiq/Resque, Elasticsearch,.. (Level: `Intermediate`)
-+ Django python, celery... (Level: `Intermediate`)
-+ AngularJS v1 (Level: `Intermediate`)
-+ AngularJS v2+ (Level: `Beginner`)
-+ NodeJS, Express.. (Level: `Beginner` - `Intermediate`)
-+ AWS, EC2, Minio
+**Backend techniques have more experienced**
++ :star:Ruby on Rails, Sidekiq/Resque, Elasticsearch
++ :star:AWS services, :star:terraform, Minio
++ :star:Kafka, monitoring with prometheus
++ Micro services
 
-**Databases (system backend) that are used**
-+ MySQL (Level: `Beginner` - `Intermediate`)
-+ PostgreSQL (Level: `Intermediate`)
-+ SQL server (Level: `Beginner` - `Intermediate`)
+**Databases have more experienced**
++ :star:PostgreSQL
++ MySQL
 
-**HTML and CSS and some Frameworks that are usedd**
-- HTML (Level: `Intermediate`)
-- CSS (Level: `Beginner`)
-- Bootstrap (Level: `Beginner`)
-- Material (Level: `Beginner`)
+**Frontend techniques have more experienced**
+- HTML
+- CSS
+- Bootstrap
+- ReactJS
 
-**Version Control System that are used**
-- Git (Level: `Intermediate`)
-- SVN  (Level: `Beginner` - `Intermediate`)
+**Version Control System have more experienced **
+- :star:Git
+- SVN
 
-**Web-based management tool that are used**
-- Jira
-- Gitlab
+**Web-based work management tool have more experienced**
+- vivify (based on Scrum and Agile)
 - Slack
-- Redmine
+- Jira
 
-**Software development methodology**
-- Scrum and Agile
-
-**IDE is used for developing**
-- Vim (Level: `Expert`)
-- Vscode (Level: `Intermediate`)
-- RubyMine (Level: `Intermediate`)
+**IDE prefers to develop**
+- :star:Vim
+- Vscode
+- RubyMine
+- Go Jetbrain
 
 Employment History (Working Experience)
 ----------
@@ -73,7 +67,7 @@ Employment History (Working Experience)
 
 |No| Project Name  	|   Responsibility (Position)	|  Techniques | Member(s) |
 |---|---|---|---|---|
-|1|  Remitano	| FullStack	| RoR, Postgres, React, AngularJS, Reverse Engineering... | 12+ |
+|1|  Remitano	| FullStack	| RoR, Postgres, React, AngularJS, Reverse Engineering, Micro services, Monitoring, etc | 12+ |
 
 <br>
 
