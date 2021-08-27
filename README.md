@@ -10,7 +10,7 @@ Address: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;38B34 Cay Keo St, Tam Phu Wd,
 
 Phone:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0382014321
 
-Year Experience::&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4+ years
+Year Experience::&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5+ years
 -------------------     ----------------------------
 
 Education
@@ -35,6 +35,7 @@ Technical Skill
 + :star:AWS services, :star:terraform, Minio
 + :star:Kafka, monitoring with prometheus
 + Micro services
++ Graphql
 
 **Databases have more experienced**
 + :star:PostgreSQL
