@@ -76,8 +76,8 @@ Employment History (Working Experience)
 
 |No| Project Name  	| Project Description |  Responsibility (Position)	|  Techniques | Team Size |
 |---|---|---|---|---|---|
-|1|  Tomareru (StayJapan)	| A Home-sharing service that connects travelers looking for alternative lodging options with property owners (https://en.stayjapan.com/) | Backend	| RoR, Mysql, Solr, Git, S3... |  20 (FE: 6, BE: 12, QCQA: 2) |
-|2|  Image Store 2	| File sharing and storage using only internal environtment, to manage, preview and share media files (picture, audio, video, doc, Photoshop files)  | Backend	| RoR, Mysql, Elasticsearch, Git, S3, minio, AWS... |  6 (BE: 4 FE: 2) |
+|1|  Tomareru (StayJapan)	| A Home-sharing service that connects travelers looking for alternative lodging options with property owners (https://en.stayjapan.com/) | Backend	| RoR, Mysql, Solr, Git, S3... |  FE: 6, BE: 12, QCQA: 2 |
+|2|  Image Store 2	| File sharing and storage using only internal environtment, to manage, preview and share media files (picture, audio, video, doc, Photoshop files)  | Backend	| RoR, Mysql, Elasticsearch, Git, S3, minio, AWS... |  BE: 4 FE: 2 |
 
 <br>
 
@@ -86,9 +86,9 @@ Employment History (Working Experience)
 |No| Project Name  	| Project Description  |    Responsibility (Position)	|  Techniques | Team size |
 |---|---|---|---|---|---|
 |1|  Process Mining	| Process mining is a family of techniques relating the fields of data science and process management to support the analysis of operational processes based on event logs |   RnD	| ProM tool, BPI domain... | 1 |
-|2|  CPS (Chiller Plant System) Stage 1 	| Project used to manage chiller system and its components, visualize model, automatically calculate and adjust input data based on the previous result from machine learning  | Frontend Developer  	| AngularJS framework| 5 (FE: 3, BE: 2) |
+|2|  CPS (Chiller Plant System) Stage 1 	| Project used to manage chiller system and its components, visualize model, automatically calculate and adjust input data based on the previous result from machine learning  | Frontend Developer  	| AngularJS framework| FE: 3, BE: 2 |
 |3|  Map OEM 	| Demo project for driverless electric cars, automatically updating data from satellites and realtime displaying obstacles on the vehicle's route to the map | Full Stack Developer 	| Javascript, AngularJS framework, NodeJS. | 1 |
-|4|  CPS Stage 2 	| Stage 2 of Chiller plan system, manage chiller plans |  Backend Developer  | Python, Django framework, REST framework, Celery.. | 4 (FE: 2, BE: 2) |
+|4|  CPS Stage 2 	| Stage 2 of Chiller plan system, manage chiller plans |  Backend Developer  | Python, Django framework, REST framework, Celery.. | FE: 2, BE: 2 |
 |5|  Nirdizati 	| Project applies Nirdizati (an open-source web-based predictive process monitoring engine for running business processes) with Process mining's technique | RnD 	| BPI domain (Process Mining, Machine Learning...), AngularJS, Python, Django framework, Kafka, Docker...  | 1 |
 
 Certifications
