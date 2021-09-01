@@ -88,7 +88,7 @@ Employment History (Working Experience)
 |1|  Process Mining	| Process mining is a family of techniques relating the fields of data science and process management to support the analysis of operational processes based on event logs |   RnD	| ProM tool, BPI domain... | 1 |
 |2|  CPS (Chiller Plant System) Stage 1 	| Project used to manage chiller system and its components, visualize model, automatically calculate and adjust input data based on the previous result from machine learning  | Frontend Developer  	| AngularJS framework| FE: 3, BE: 2 |
 |3|  Map OEM 	| Demo project for driverless electric cars, automatically updating data from satellites and realtime displaying obstacles on the vehicle's route to the map | Full Stack Developer 	| Javascript, AngularJS framework, NodeJS. | 1 |
-|4|  CPS Stage 2 	| Stage 2 of Chiller plan system, manage chiller plans |  Backend Developer  | Python, Django framework, REST framework, Celery.. | FE: 2, BE: 2 |
+|4|  CPS Stage 2 	| Expansion from stage 1 of Chiller plan system, manage more chiller plants and more chiller's components |  Backend Developer  | Python, Django framework, REST framework, Celery.. | FE: 2, BE: 2 |
 |5|  Nirdizati 	| Project applies Nirdizati (an open-source web-based predictive process monitoring engine for running business processes) with Process mining's technique | RnD 	| BPI domain (Process Mining, Machine Learning...), AngularJS, Python, Django framework, Kafka, Docker...  | 1 |
 
 Certifications
