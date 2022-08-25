@@ -28,14 +28,14 @@ Technical Skill
 + :star:Ruby
 + Python
 + Javascript
-+ Go
 
 **Backend techniques have more experienced**
 + :star:Ruby on Rails, Sidekiq/Resque, Elasticsearch
-+ :star:AWS services, :star:terraform, Minio
-+ :star:Kafka, monitoring with prometheus
++ :star:AWS services, :star:terraform
++ :star:Kafka, monitoring with prometheus/cloudwatch
 + Micro services
 + Graphql
++ Automate process with Jenkins/CircleCI/Github action
 
 **Databases have more experienced**
 + :star:PostgreSQL
@@ -60,7 +60,6 @@ Technical Skill
 - :star:Vim
 - Vscode
 - RubyMine
-- Go Jetbrain
 
 Employment History (Working Experience)
 ----------
