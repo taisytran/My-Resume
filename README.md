@@ -4,13 +4,13 @@ Tran Sy Tai
 -------------------     ----------------------------
 Birthday: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04/08/1994
 
-Email: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;transytai12a1@gmail.com
+Email: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;taitran.tech@gmail.com
 
-Address: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;38B34 Cay Keo St, Tam Phu Wd, Thu Duc Dist, HCM City
+Address: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thu Duc City, HCM
 
 Phone:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0382014321
 
-Year Experience::&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5+ years
+Year Experience:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7+ years
 -------------------     ----------------------------
 
 Education
@@ -31,39 +31,48 @@ Technical Skill
 
 **Backend techniques have more experienced**
 + :star:Ruby on Rails, Sidekiq/Resque, Elasticsearch
-+ :star:AWS services, :star:terraform
-+ :star:Kafka, monitoring with prometheus/cloudwatch
++ :star:AWS services, IaC with :star:Terraform
++ :star:Kafka, Monitoring with Prometheus/Cloudwatch/NewRelic
 + Micro services
-+ Graphql
-+ Automate process with Jenkins/CircleCI/Github action
++ GraphQL
++ Automate process with Jenkins/CircleCI/Github Action
 
 **Databases have more experienced**
-+ :star:PostgreSQL
-+ MySQL
++ :star:MySQL
++ PostgreSQL
 
 **Frontend techniques have more experienced**
 - HTML
 - CSS
 - Bootstrap
+- Tailwind CSS
 - ReactJS
 
-**Version Control System have more experienced **
+**Version Control System have more experienced**
 - :star:Git
 - SVN
 
 **Web-based work management tool have more experienced**
-- vivify (based on Scrum and Agile)
+- Vivify (based on Scrum and Agile)
 - Slack
 - Jira
+- Rally
 
 **IDE prefers to develop**
 - :star:Vim
 - Vscode
-- RubyMine
 
 Employment History (Working Experience)
 ----------
-9/2019 - present: **Remitano**
+9/2021 - Present: **FPT Software**
+
+|No| Project Name  	| Project Descripton |   Responsibility (Position)	|  Techniques | Team Size |
+|---|---|---|---|---|---|
+|1|  Automative - C99	| As a groundbreaking project, transforming the automotive industry through comprehensive solutions and cutting-edge technology, streamlining the entire vehicle lifecycle from acquisition to sales and service | FullStack | RoR, MySQL, AWS services, CICD with Jenkins and Github Actions, Monitoring with AWS CloudWatch, Slunk and NewRelic, IaC with Terraform, etc | Dev: 7, QAQC: 3 |
+
+<br>
+
+9/2019 - 12/2021: **Remitano**
 
 |No| Project Name  	| Project Descripton |   Responsibility (Position)	|  Techniques | Team Size |
 |---|---|---|---|---|---|
@@ -97,15 +106,17 @@ Certifications
 - **October 2016**: The Data Scientist's Toolbox on Coursera's course
 - **November 2016**: R programming on Coursera's course
 - **January 2017**: Getting and Cleaning Data on Coursera's course
+- **March 2022**: PSM 1
+- **June 2023**: Cloud Developer Nanodegree on Udacity
 
 Position Applied For
 ---
-- Ruby Developer or Full Stack Developer (Frontend/Backend or Both)
+- Full Stack Developer (Frontend/Backend/Devops or all)
 
 English Skill
 ----------
 + Level: Intermediate
-+ Ability: Can read, write the documents in English
++ Ability: Read, speak and document paper in English
 
 Personal Skill
 ----------
@@ -130,4 +141,4 @@ Additional Information
 - Sometime take part in a lot of activities of Faculty and School, e.g: Summer Green Campaign, Spring Volunteer..
 
 ----
-> <transytai12a1@gmail.com> • 0382014321
+> <taitran.tech@gmail.com> • 0382014321
