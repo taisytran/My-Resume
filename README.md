@@ -52,6 +52,11 @@ Technical Skill
 - :star: ReactJS  
 - React Native  
 
+**AI-Powered Development Tools**  
++ Proficient in leveraging AI assistants (ChatGPT, Google Gemini, GitHub Copilot) to accelerate coding, debugging, and documentation.  
++ Experienced in using AI tools for code review, generating test cases, and improving code quality.  
++ Skilled at integrating AI suggestions into development workflow while maintaining clean architecture and best practices.
+
 **Version Control System have more experienced**  
 - :star: Git  
 - SVN  
