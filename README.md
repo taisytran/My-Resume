@@ -10,7 +10,7 @@ Address: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thu Duc City, HCM
 
 Phone:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0382014321
 
-Year Experience:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7+ years
+Year Experience:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10+ years
 -------------------     ----------------------------
 
 Education
@@ -24,51 +24,56 @@ Education
 Technical Skill
 ----------
 
-**Programming Language:**
-+ :star:Ruby
-+ Python
-+ Javascript
+**Programming Language:**  
++ :star: Ruby  
++ Python  
++ Javascript  
++ TypeScript  
 
-**Backend techniques have more experienced**
-+ :star:Ruby on Rails, Sidekiq/Resque, Elasticsearch
-+ :star:AWS services, IaC with :star:Terraform
-+ :star:Kafka, Monitoring with Prometheus/Cloudwatch/NewRelic
-+ Micro services
-+ GraphQL
-+ Automate process with Jenkins/CircleCI/Github Action
+**Backend techniques have more experienced**  
++ :star: Ruby on Rails, Sidekiq/Resque, Elasticsearch  
++ :star: AWS services, IaC with :star: Terraform  
++ :star: Kafka, Monitoring with Prometheus/Cloudwatch/NewRelic  
++ TS.ED (TypeScript Node.js Framework)  
++ Micro services  
++ GraphQL  
++ Automate process with Jenkins/CircleCI/Github Action  
++ AWS Lambda  
 
-**Databases have more experienced**
-+ :star:MySQL
-+ PostgreSQL
+**Databases have more experienced**  
++ MySQL  
++ :star: PostgreSQL  
 
-**Frontend techniques have more experienced**
-- HTML
-- CSS
-- Bootstrap
-- Tailwind CSS
-- ReactJS
+**Frontend techniques have more experienced**  
+- HTML  
+- CSS  
+- Bootstrap  
+- Tailwind CSS  
+- :star: ReactJS  
+- React Native  
 
-**Version Control System have more experienced**
-- :star:Git
-- SVN
+**Version Control System have more experienced**  
+- :star: Git  
+- SVN  
 
-**Web-based work management tool have more experienced**
-- Vivify (based on Scrum and Agile)
-- Slack
-- Jira
-- Rally
+**Web-based work management tool have more experienced**  
+- Vivify (based on Scrum and Agile)  
+- Slack  
+- Jira  
+- Rally  
 
-**IDE prefers to develop**
-- :star:Vim
-- Vscode
+**IDE prefers to develop**  
+- :star: Vim  
+- Vscode  
 
 Employment History (Working Experience)
 ----------
 9/2021 - Present: **FPT Software**
 
-|No| Project Name  	| Project Descripton |   Responsibility (Position)	|  Techniques | Team Size |
+|No| Project Name | Project Descripton | Responsibility (Position) | Techniques | Team Size |
 |---|---|---|---|---|---|
-|1|  Automative - C99	| As a groundbreaking project, transforming the automotive industry through comprehensive solutions and cutting-edge technology, streamlining the entire vehicle lifecycle from acquisition to sales and service | FullStack | RoR, MySQL, AWS services, CICD with Jenkins and Github Actions, Monitoring with AWS CloudWatch, Slunk and NewRelic, IaC with Terraform, etc | Dev: 7, QAQC: 3 |
+|1| Automotive – C99 | As a groundbreaking project, transforming the automotive industry through comprehensive solutions and cutting-edge technology, streamlining the entire vehicle lifecycle from acquisition to sales and service | FullStack | RoR, MySQL, AWS services, CICD with Jenkins and Github Actions, Monitoring with AWS CloudWatch, Slunk and NewRelic, IaC with Terraform, etc | Dev: 7, QAQC: 3 |
+|2| Smart Solar Energy Platform - EU |Enterprise-scale intelligent solar energy management and optimization solution for one of Europe’s largest energy utilities, enabling real-time monitoring, predictive analytics, and automated control to optimize solar power usage for both residential and commercial sectors | FullStack | NodeJS, TypeScript, TS.ED, React, React Native, AWS Lambda, MySQL, PostgreSQL, AWS services, CICD with Github Actions, Monitoring with NewRelic, IaC with CloudFormation | Dev: 4, QAQC: 1 |
 
 <br>
 
